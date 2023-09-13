@@ -4,7 +4,7 @@
 ```ruby 
   const anastasiaFlorentis = {
   availableForHire: true,
-  education: "Le Wagon Paris, a 9-week full-time intensive coding bootcamp",
+  education: "Le Wagon London, a 9-week full-time intensive coding bootcamp",
   otherAlias: "Full Stack Developer",
   codesIn: ["HTML", "CSS", "Ruby", "Javascript"],
   currentlylearning: ["React", "typescript"],
