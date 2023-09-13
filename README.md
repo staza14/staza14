@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anastasia</h1>
 <h3 align="center">A budding fullstack developer based in London</h3>
 
-``` 
+```ruby 
   const anastasiaFlorentis = {
   availableForHire: true,
   education: "Le Wagon Paris, a 9-week full-time intensive coding bootcamp",
