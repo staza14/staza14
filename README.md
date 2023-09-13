@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [troopl.com/anastasiaflorentis](troopl.com/anastasiaflorentis)
 
-- 📫 How to reach me **anastasiaflorentis@gmail.com**
+- 📫 reach me @ **anastasiaflorentis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
