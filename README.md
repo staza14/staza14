@@ -11,9 +11,9 @@
   toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"],
   pastExperience: [
     {
-      company : "La Revanche des Sites",
-      post : "SEO Consultant",
-      duration : "2 years and a half"
+      company : "Ottolenghi",
+      position : "Bartender",
+      duration : " July 2023- Present"
     },
   ],
 }
